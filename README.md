@@ -1,5 +1,4 @@
-# aTask
-Web and mobile tasks app
+# aTask - a web and mobile tasks app
 Add tasks to specific groups using hashtags "#store cucumber, peanuts" adds "cucumber, peanuts" to the group "store".
 
 mock-up:
